@@ -1,2 +1,3 @@
 food-be/venv/
 food-fe/node_modules/
+**/__pycache__/
